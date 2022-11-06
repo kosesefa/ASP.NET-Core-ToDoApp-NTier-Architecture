@@ -1,0 +1,327 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.Business\\ToDoAppNTier.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.Business\\ToDoAppNTier.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.Business\\ToDoAppNTier.Business.csproj",
+        "projectName": "ToDoAppNTier.Business",
+        "projectPath": "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.Business\\ToDoAppNTier.Business.csproj",
+        "packagesPath": "C:\\Users\\sefak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sefak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.Common\\ToDoAppNTier.Common.csproj": {
+                "projectPath": "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.Common\\ToDoAppNTier.Common.csproj"
+              },
+              "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.DataAccess\\ToDoAppNTier.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.DataAccess\\ToDoAppNTier.DataAccess.csproj"
+              },
+              "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.DTOS\\ToDoAppNTier.DTOS.csproj": {
+                "projectPath": "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.DTOS\\ToDoAppNTier.DTOS.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.2.3, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[10.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.Common\\ToDoAppNTier.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.Common\\ToDoAppNTier.Common.csproj",
+        "projectName": "ToDoAppNTier.Common",
+        "projectPath": "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.Common\\ToDoAppNTier.Common.csproj",
+        "packagesPath": "C:\\Users\\sefak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sefak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.DataAccess\\ToDoAppNTier.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.DataAccess\\ToDoAppNTier.DataAccess.csproj",
+        "projectName": "ToDoAppNTier.DataAccess",
+        "projectPath": "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.DataAccess\\ToDoAppNTier.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\sefak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sefak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.Entities\\ToDoAppNTier.Entities.csproj": {
+                "projectPath": "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.Entities\\ToDoAppNTier.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.DTOS\\ToDoAppNTier.DTOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.DTOS\\ToDoAppNTier.DTOS.csproj",
+        "projectName": "ToDoAppNTier.DTOS",
+        "projectPath": "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.DTOS\\ToDoAppNTier.DTOS.csproj",
+        "packagesPath": "C:\\Users\\sefak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.DTOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sefak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.Entities\\ToDoAppNTier.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.Entities\\ToDoAppNTier.Entities.csproj",
+        "projectName": "ToDoAppNTier.Entities",
+        "projectPath": "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.Entities\\ToDoAppNTier.Entities.csproj",
+        "packagesPath": "C:\\Users\\sefak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sefak\\source\\repos\\ToDoAppNTier\\ToDoAppNTier.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sefak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\sefak\source\repos\ToDoAppNTier\ToDoAppNTier.DTOS\bin\Debug\net5.0\ToDoAppNTier.DTOS.deps.json
+C:\Users\sefak\source\repos\ToDoAppNTier\ToDoAppNTier.DTOS\bin\Debug\net5.0\ToDoAppNTier.DTOS.dll
+C:\Users\sefak\source\repos\ToDoAppNTier\ToDoAppNTier.DTOS\bin\Debug\net5.0\ToDoAppNTier.DTOS.pdb
+C:\Users\sefak\source\repos\ToDoAppNTier\ToDoAppNTier.DTOS\obj\Debug\net5.0\ToDoAppNTier.DTOS.csproj.AssemblyReference.cache
+C:\Users\sefak\source\repos\ToDoAppNTier\ToDoAppNTier.DTOS\obj\Debug\net5.0\ToDoAppNTier.DTOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sefak\source\repos\ToDoAppNTier\ToDoAppNTier.DTOS\obj\Debug\net5.0\ToDoAppNTier.DTOS.AssemblyInfoInputs.cache
+C:\Users\sefak\source\repos\ToDoAppNTier\ToDoAppNTier.DTOS\obj\Debug\net5.0\ToDoAppNTier.DTOS.AssemblyInfo.cs
+C:\Users\sefak\source\repos\ToDoAppNTier\ToDoAppNTier.DTOS\obj\Debug\net5.0\ToDoAppNTier.DTOS.csproj.CoreCompileInputs.cache
+C:\Users\sefak\source\repos\ToDoAppNTier\ToDoAppNTier.DTOS\obj\Debug\net5.0\ToDoAppNTier.DTOS.dll
+C:\Users\sefak\source\repos\ToDoAppNTier\ToDoAppNTier.DTOS\obj\Debug\net5.0\refint\ToDoAppNTier.DTOS.dll
+C:\Users\sefak\source\repos\ToDoAppNTier\ToDoAppNTier.DTOS\obj\Debug\net5.0\ToDoAppNTier.DTOS.pdb
+C:\Users\sefak\source\repos\ToDoAppNTier\ToDoAppNTier.DTOS\obj\Debug\net5.0\ref\ToDoAppNTier.DTOS.dll
